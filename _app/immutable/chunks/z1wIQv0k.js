@@ -1,0 +1,1 @@
+import{s,p as e,g as a,a as o,b as i,c}from"./C6rPX6h7.js";const r=Symbol();class n{#t=s(e({course:void 0,frames:[],scenario:void 0}));get sim(){return a(this.#t)}set sim(t){o(this.#t,t,!0)}#s=s(e([]));get active_umas(){return a(this.#s)}set active_umas(t){o(this.#s,t,!0)}constructor(){console.log("yeah frames"),i(r,this)}static get(){return c(r)}}export{n as G};
